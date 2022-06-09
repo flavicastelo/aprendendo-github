@@ -17,4 +17,5 @@
    Your repositories > New 
 2. Git remote add origin linkdorepo
 3. Git push origin main 
+    *caso dê erro tentar usar o git pull origin main*
 
