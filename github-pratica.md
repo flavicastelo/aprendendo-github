@@ -18,20 +18,25 @@
 2. `git remote add origin linkdorepo`
 3. `git push -u origin main` -> -u no primeiro push serve para armazenar o remote e a branch
     - *caso dê erro tentar usar o `git pull origin main`*
-
-
+&nbsp;
+---
+&nbsp;
 ### Atualizando o projeto
 **No Computador**
 1. `git add .` -> para adicionar todos os arquivos na stage
 2. `git commit -m "msg"` -> para commitar 
 3. `git push`
-
+&nbsp;
+---
+&nbsp;
 ### Comandos úteis
 * `git status` -> verifica o status do projeto, se precisa adicionar na stage, commitar, etc.
 * `git log` -> verifica os commits e mostra os ID (apertar a tecla 'q' para sair)
 * `git diff` -> mostra as modificações do arquivo (só funciona antes de mandar o arquivo para stage)
 * `git reset`-> tira o arquivo da stage
-
+&nbsp;
+---
+&nbsp;
 ### Observações
 * `git clone`x `git pull`
     - Quando não tenho o projeto na máquina local -> `git clone`
