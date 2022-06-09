@@ -1,6 +1,7 @@
 # APRENDENDO A UPAR O PROJETO PARA O GITHUB
 ### Passo a passo
 
+#### Criando o projeto
 **No Computador**
 1. Entra no repositório
 2. Cria a branch main -> `git branch main`
@@ -17,4 +18,10 @@
 2. `git remote add origin linkdorepo`
 3. `git push origin main` 
     - *caso dê erro tentar usar o `git pull origin main`*
+
+
+#### Atualizando o projeto
+**No Computador**
+1. `git add .` -> para adicionar todos os arquivos na stage
+2. `git commit -m "msg"` -> para commitar 
 
