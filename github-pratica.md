@@ -20,7 +20,7 @@
     - *caso dê erro tentar usar o `git pull origin main`*
 &nbsp;
 ---
-&nbsp;
+
 ### Atualizando o projeto
 **No Computador**
 1. `git add .` -> para adicionar todos os arquivos na stage
@@ -28,7 +28,7 @@
 3. `git push`
 &nbsp;
 ---
-&nbsp;
+
 ### Comandos úteis
 * `git status` -> verifica o status do projeto, se precisa adicionar na stage, commitar, etc.
 * `git log` -> verifica os commits e mostra os ID (apertar a tecla 'q' para sair)
@@ -38,7 +38,7 @@
 * `git checkout -b nomeDaBranch` -> cria nova brach e já muda para ela
 &nbsp;
 ---
-&nbsp;
+
 ### Observações
 * `git clone`x `git pull`
     - Quando não tenho o projeto na máquina local -> `git clone`
@@ -46,7 +46,6 @@
     - Fazer rebase com a branch principal antes de começar a trabalhar na branch nova
 &nbsp;
 ---
-&nbsp;
 
 ### Stash
 Não pode mudar de branch sem commitar a alteração, mas se não quiser commitar ainda, pode armazenar a alteração temporariamente usando o **stash**.
