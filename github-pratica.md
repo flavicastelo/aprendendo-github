@@ -16,4 +16,5 @@
 1. Cria um repositório:
    Your repositories > New 
 2. Git remote add origin linkdorepo
+3. Git push origin main 
 
