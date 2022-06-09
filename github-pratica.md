@@ -15,7 +15,7 @@
 **No Github**
 1. Cria um repositório:
     - *Your repositories > New*
-2. `git remote add origin linkdorepo`
+2. `git remote add origin linkDoRepositorio`
 3. `git push -u origin main` -> -u no primeiro push serve para armazenar o remote e a branch
     - *caso dê erro tentar usar o `git pull origin main`*
 &nbsp;
@@ -35,7 +35,7 @@
 * `git diff` -> mostra as modificações do arquivo (só funciona antes de mandar o arquivo para stage)
 * `git reset`-> tira o arquivo da stage
 * `git checkout - ` -> volta para branch anterior, útil para ficar alternando entre 2 branches
-* `git checkout -b` -> cria nova brach e já muda para ela
+* `git checkout -b nomeDaBranch` -> cria nova brach e já muda para ela
 &nbsp;
 ---
 &nbsp;
