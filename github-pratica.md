@@ -6,8 +6,10 @@
 2. Cria a branch main -> git branch main
 3. Entra na branch main -> git checkout main
 4. Git init -> para inicializar o git
-5. Git add . -> para adicionar todos os arquivos na stage
-6. Git commit -m "msg" -> para commitar 
+5. git config --global user.name "nome" 
+6. git config --global user.email "email"
+7. Git add . -> para adicionar todos os arquivos na stage
+8. Git commit -m "msg" -> para commitar 
 
 
 
