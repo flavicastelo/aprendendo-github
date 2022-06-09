@@ -44,3 +44,15 @@
     - Quando não tenho o projeto na máquina local -> `git clone`
     - Quando preciso pegar apenas as novas alterações que ocorreram no projeto -> `git pull`
     - Fazer rebase com a branch principal antes de começar a trabalhar na branch nova
+&nbsp;
+---
+&nbsp;
+
+### Stash
+Não pode mudar de branch sem commitar a alteração, mas se não quiser commitar ainda, pode armazenar a alteração temporariamente usando o **stash**.
+* `git stash` -> armazena temporariamente as alterações do arquivo
+* `git stash --include-untracked` -> armazena todos os arquivos novos da branch
+* `git stash list` -> onde estão armazenada as alterações
+* `git stash apply`-> para aplicar as alterações (tirar do armazenamento temporário)
+* `git stash clear` -> limpa a list
+
