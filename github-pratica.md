@@ -3,8 +3,9 @@
 
 **No Computador**
 1. Entra no repositório
-2. Git init
-
+2. Git init -> para inicializar o git
+3. Git add . -> para adicionar todos os arquivos na stage
+4. Git commit -m "msg" -> para commitar 
 
 
 **No Github**
