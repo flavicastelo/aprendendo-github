@@ -31,6 +31,7 @@
 * `git log` -> verifica os commits e mostra os ID (apertar a tecla 'q' para sair)
 * `git diff` -> mostra as modificações do arquivo (só funciona antes de mandar o arquivo para stage)
 * `git reset`-> tira o arquivo da stage
+* `git checkout - ` -> volta para branch anterior, útil para ficar alternando entre 2 branches
 
 ### Observações
 * `git clone`x `git pull`
