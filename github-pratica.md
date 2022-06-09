@@ -8,7 +8,7 @@
 4. git init -> para inicializar o git
 5. git config --global user.name "nome" 
 6. git config --global user.email "email"
-7. Git add . -> para adicionar todos os arquivos na stage
+7. git add . -> para adicionar todos os arquivos na stage
 8. git commit -m "msg" -> para commitar 
 
 
