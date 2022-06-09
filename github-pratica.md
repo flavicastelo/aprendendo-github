@@ -17,14 +17,13 @@
     - *Your repositories > New*
 2. `git remote add origin linkDoRepositorio`
 3. `git push -u origin main` -> -u no primeiro push serve para armazenar o remote e a branch
-    - *ideal que use o `git pull origin --rebase` antes para puxar as alterações feitas anteriormente por outras pessoas*
 &nbsp;
 ---
 ### Atualizando o projeto
 **No Computador**
 1. `git add .` -> para adicionar todos os arquivos na stage
 2. `git commit -m "msg"` -> para commitar 
-3. `git push`
+3. `git push` -> para mandar para o github
 &nbsp;
 ---
 ### Comandos úteis
@@ -36,13 +35,6 @@
 * `git checkout -b nomeDaBranch` -> cria nova brach e já muda para ela
 &nbsp;
 ---
-### Observações
-* `git clone`x `git pull`
-    - Quando não tenho o projeto na máquina local -> `git clone`
-    - Quando preciso pegar apenas as novas alterações que ocorreram no projeto -> `git pull`
-* Fazer rebase com a branch principal antes de começar a trabalhar na branch nova
-&nbsp;
----
 ### Stash
 Não pode mudar de branch sem commitar a alteração, mas se não quiser commitar ainda, pode armazenar a alteração temporariamente usando o **stash**
 * `git stash` -> armazena temporariamente as alterações do arquivo
@@ -50,4 +42,11 @@ Não pode mudar de branch sem commitar a alteração, mas se não quiser commita
 * `git stash list` -> onde estão armazenada as alterações
 * `git stash apply`-> para aplicar as alterações (tirar do armazenamento temporário)
 * `git stash clear` -> limpa a list
-
+&nbsp;
+---
+### Observações
+* `git clone` x `git pull`
+    - Quando não tenho o projeto na máquina local -> `git clone`
+    - Quando preciso pegar apenas as novas alterações que ocorreram no projeto -> `git pull`
+* Fazer rebase com a branch principal antes de começar a trabalhar na branch nova
+* Ideal que use o `git pull origin --rebase` antes para puxar as alterações feitas anteriormente por outras pessoas
