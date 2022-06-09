@@ -35,6 +35,7 @@
 * `git diff` -> mostra as modificações do arquivo (só funciona antes de mandar o arquivo para stage)
 * `git reset`-> tira o arquivo da stage
 * `git checkout - ` -> volta para branch anterior, útil para ficar alternando entre 2 branches
+* `git checkout -b` -> cria nova brach e já muda para ela
 &nbsp;
 ---
 &nbsp;
