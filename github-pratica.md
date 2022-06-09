@@ -48,7 +48,7 @@
 ---
 
 ### Stash
-Não pode mudar de branch sem commitar a alteração, mas se não quiser commitar ainda, pode armazenar a alteração temporariamente usando o **stash**
+Não pode mudar de branch sem commitar a alteração, mas se não quiser commitar ainda, pode armazenar a alteração temporariamente usando o **stash**q
 * `git stash` -> armazena temporariamente as alterações do arquivo
 * `git stash --include-untracked` -> armazena todos os arquivos novos da branch
 * `git stash list` -> onde estão armazenada as alterações
