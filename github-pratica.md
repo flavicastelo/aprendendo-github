@@ -31,3 +31,8 @@
 * `git log` -> verifica os commits e mostra os ID (apertar a tecla 'q' para sair)
 * `git diff` -> mostra as modificações do arquivo (só funciona antes de mandar o arquivo para stage)
 * `git reset`-> tira o arquivo da stage
+
+### Observações
+* `git clone`x `git pull`
+    - Quando não tenho o projeto na máquina local -> `git clone`
+    - Quando preciso pegar apenas as novas alterações que ocorreram no projeto -> `git pull`
