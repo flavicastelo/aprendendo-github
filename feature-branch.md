@@ -9,4 +9,8 @@
 **No github**
 * Pull request > new
 * Base: branch para onde quer mandar o pull e Compare: branch que vai mandar o pull
-* Em Review
+* Em **Reviewers** adiciona os revisores
+* Create Pull Request
+* Após aprovação na aba Conversation:
+    - Merge pull request
+    - Commit msg
