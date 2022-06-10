@@ -1,4 +1,4 @@
-# Me arrependi da alteração e agora?
+# ME ARREPENDI DA ALTERAÇÃO E AGORA?
 ## Git reset x git revert
 
 ### Git reset
