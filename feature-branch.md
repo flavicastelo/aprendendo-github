@@ -23,4 +23,5 @@
 * `git pull origin main` -> para atualizar a branch
 * `git add .` -> adiciona os arquivos na stage
 * `git commit -m "msg"`
+* `git push` -> para enviar as modificações na branch principal 
 
