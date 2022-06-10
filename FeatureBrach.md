@@ -2,7 +2,7 @@
 * cria uma brach e entra nela
 * adiciona na stage
 * commmita
-* git push origin nomedabranch nova
+* git push origin nomedabranch novagit 
 
 No github
 * Pull request > new
