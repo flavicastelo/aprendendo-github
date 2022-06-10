@@ -14,3 +14,6 @@
 * Após aprovação na aba Conversation:
     - Merge pull request
     - Commit msg
+* Deleta a branch
+
+
