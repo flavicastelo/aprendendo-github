@@ -16,4 +16,7 @@
     - Commit msg
 * Deleta a branch
 
-
+**No Computador**
+* Volta para branch principal -> `git checkout nomeBranch`
+* `git merge nomeBranchSec` -> para pegar as modificações da branch secundária
+* Deleta a branch secundária -> `git branch -D nomeBranchSec`
